@@ -24,30 +24,31 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">  
-  <table>
-    <tr>
-      <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python</td>
-      <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>Scikit-Learn</td>
-      <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br>TensorFlow</td>
-      <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
-      <td align="center" width="100"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/><br>Seaborn</td>
-      <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/><br>OpenCV</td>
-    </tr>
-    <tr>
-      <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br>React</td>
-      <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br>Tailwind CSS</td>
-      <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/><br>Figma</td>
-      <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git</td>
-      <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br>HTML5</td>
-      <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br>CSS3</td>
-    </tr>
-    <tr>
-      <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL</td>
-      <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB</td>
-      <td align="center" width="100"><img src="https://upload.wikimedia.org/wikimedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br>Power BI</td>
-      <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C</td>
-    </tr>
-  </table>
+  <!-- Row 1 -->
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/><br><sub>Python</sub></a> &nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/><br><sub>Scikit-Learn</sub></a> &nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60"/><br><sub>TensorFlow</sub></a> &nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60"/><br><sub>Pandas</sub></a> &nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60"/><br><sub>Seaborn</sub></a> &nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60" height="60"/><br><sub>OpenCV</sub></a>  
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/><br><sub>React</sub></a> &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60"/><br><sub>Tailwind CSS</sub></a> &nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/><br><sub>Figma</sub></a> &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/><br><sub>Git</sub></a> &nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60"/><br><sub>HTML5</sub></a> &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/><br><sub>CSS3</sub></a>
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/><br><sub>MySQL</sub></a> &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/><br><sub>MongoDB</sub></a> &nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60"/><br><sub>Power BI</sub></a> &nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60"/><br><sub>C</sub></a>
 </p>
 
 ---
