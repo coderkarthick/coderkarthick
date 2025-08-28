@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderkarthick" alt="coderkarthick" /></a> </p>
 
-- 🌱 I’m currently learning **TENSOR FLOW**
+- 🌱 I’m currently learning **ML **
 
-- 💬 Ask me about **REACT**
+- 💬 Ask me about **DATA ANALYSIS**
 
 - 📫 How to reach me **karthick2004.thiru@gmail.com**
 
