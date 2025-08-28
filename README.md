@@ -1,6 +1,9 @@
-# 🌟 Premium GitHub Profile README
+# Premium GitHub Profile README - Copy This Raw Code
 
-```html
+Copy the content below and paste it directly into your GitHub README.md file:
+
+---
+
 <!-- Hero Section with Particle Animation Background -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Karthick%20T&fontSize=50&fontAlign=70&fontAlignY=40&desc=ML%20Enthusiast%20|%20Frontend%20Architect%20|%20Innovation%20Catalyst&descAlign=70&descAlignY=60&animation=fadeIn" width="100%"/>
@@ -234,13 +237,3 @@
     "Code is poetry in motion, and innovation is the rhythm that drives it."
     - Karthick T
 -->
-```
-
-## 🎨 Premium Features Included:
-
-### Visual Enhancements:
-- **Holographic Hero Section**: Capsule render with gradient waves and particle effects
-- **Matrix Code Rain**: Animated snake contribution graph with dark theme
-- **Neon Glow Effects**: Custom color schemes with #00D4AA accent
-- **Glassmorphism Cards**: Transparent overlays with backdrop blur effects
-- **Floating Animations**: GIF elements that add life to sections
