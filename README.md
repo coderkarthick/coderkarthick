@@ -1,8 +1,3 @@
-# Premium GitHub Profile README - Copy This Raw Code
-
-Copy the content below and paste it directly into your GitHub README.md file:
-
----
 
 <!-- Hero Section with Particle Animation Background -->
 <div align="center">
